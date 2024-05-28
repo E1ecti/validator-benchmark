@@ -19,6 +19,7 @@
 | [TypeBox](https://github.com/sinclairzx81/typebox) (**) |
 
  (*) not supported advanced types (email, url, ...etc)
+
  (**) does not contain detailed errors
 
 ## Benchmark #1 (simple object)
